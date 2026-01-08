@@ -1,0 +1,1689 @@
+fileFormatVersion: 2
+guid: dc39b8b19b351f5479a0ceb50c8691a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7461573506032666125
+    second: Coin_SpriteSheet_0
+  - first:
+      213: -8989233490642539852
+    second: Coin_SpriteSheet_1
+  - first:
+      213: -4486492437636265914
+    second: Coin_SpriteSheet_2
+  - first:
+      213: 2858163612951845432
+    second: Coin_SpriteSheet_3
+  - first:
+      213: 5945580790677220449
+    second: Coin_SpriteSheet_4
+  - first:
+      213: 8123982330684184248
+    second: Coin_SpriteSheet_5
+  - first:
+      213: 1820539146470743684
+    second: Coin_SpriteSheet_6
+  - first:
+      213: -560976248695424429
+    second: Coin_SpriteSheet_7
+  - first:
+      213: 5712415724423532289
+    second: Coin_SpriteSheet_8
+  - first:
+      213: 2003685084384833596
+    second: Coin_SpriteSheet_9
+  - first:
+      213: -3393137846168478742
+    second: Coin_SpriteSheet_10
+  - first:
+      213: -1190447103765346015
+    second: Coin_SpriteSheet_11
+  - first:
+      213: 3994641165038182504
+    second: Coin_SpriteSheet_12
+  - first:
+      213: 9196682885202164548
+    second: Coin_SpriteSheet_13
+  - first:
+      213: 6444276850086261990
+    second: Coin_SpriteSheet_14
+  - first:
+      213: 3388365587804980427
+    second: Coin_SpriteSheet_15
+  - first:
+      213: -601228878283214773
+    second: Coin_SpriteSheet_16
+  - first:
+      213: 524628543424445132
+    second: Coin_SpriteSheet_17
+  - first:
+      213: 5838155809843112338
+    second: Coin_SpriteSheet_18
+  - first:
+      213: -458194637632092761
+    second: Coin_SpriteSheet_19
+  - first:
+      213: 3453644738324487907
+    second: Coin_SpriteSheet_20
+  - first:
+      213: -6233729262952018396
+    second: Coin_SpriteSheet_21
+  - first:
+      213: -5218820279326461296
+    second: Coin_SpriteSheet_22
+  - first:
+      213: -693267291528021562
+    second: Coin_SpriteSheet_23
+  - first:
+      213: 6409858935780600305
+    second: Coin_SpriteSheet_24
+  - first:
+      213: 4442221641605728888
+    second: Coin_SpriteSheet_25
+  - first:
+      213: -3171620619679265355
+    second: Coin_SpriteSheet_26
+  - first:
+      213: -3268442531117296128
+    second: Coin_SpriteSheet_27
+  - first:
+      213: -1467259000226279053
+    second: Coin_SpriteSheet_28
+  - first:
+      213: -7776950476279172527
+    second: Coin_SpriteSheet_29
+  - first:
+      213: -226228224175397532
+    second: Coin_SpriteSheet_30
+  - first:
+      213: -8090494284391432245
+    second: Coin_SpriteSheet_31
+  - first:
+      213: -8587923565520976618
+    second: Coin_SpriteSheet_32
+  - first:
+      213: -997835897513527933
+    second: Coin_SpriteSheet_33
+  - first:
+      213: -7628310055409136115
+    second: Coin_SpriteSheet_34
+  - first:
+      213: -5491262010507437199
+    second: Coin_SpriteSheet_35
+  - first:
+      213: -2163435947320681136
+    second: Coin_SpriteSheet_36
+  - first:
+      213: -1727645899704804747
+    second: Coin_SpriteSheet_37
+  - first:
+      213: -1345134974771344855
+    second: Coin_SpriteSheet_38
+  - first:
+      213: 1532997586248447577
+    second: Coin_SpriteSheet_39
+  - first:
+      213: -3259549712680588014
+    second: Coin_SpriteSheet_40
+  - first:
+      213: 3785366145273506612
+    second: Coin_SpriteSheet_41
+  - first:
+      213: -8411428015924548624
+    second: Coin_SpriteSheet_42
+  - first:
+      213: 1872862515621774907
+    second: Coin_SpriteSheet_43
+  - first:
+      213: 6686038544570570119
+    second: Coin_SpriteSheet_44
+  - first:
+      213: -2708114949259668201
+    second: Coin_SpriteSheet_45
+  - first:
+      213: 3152015029011696354
+    second: Coin_SpriteSheet_46
+  - first:
+      213: -2639798183818411649
+    second: Coin_SpriteSheet_47
+  - first:
+      213: -9008667054839361867
+    second: Coin_SpriteSheet_48
+  - first:
+      213: 4387639424433960309
+    second: Coin_SpriteSheet_49
+  - first:
+      213: -2465920719165161295
+    second: Coin_SpriteSheet_50
+  - first:
+      213: 5394369043817155009
+    second: Coin_SpriteSheet_51
+  - first:
+      213: 2127531225951230637
+    second: Coin_SpriteSheet_52
+  - first:
+      213: 7862957683902785177
+    second: Coin_SpriteSheet_53
+  - first:
+      213: 8512103898828560891
+    second: Coin_SpriteSheet_54
+  - first:
+      213: 8102384236729594275
+    second: Coin_SpriteSheet_55
+  - first:
+      213: 7297264114670677051
+    second: Coin_SpriteSheet_56
+  - first:
+      213: 7168242113623820052
+    second: Coin_SpriteSheet_57
+  - first:
+      213: 3998797059801270273
+    second: Coin_SpriteSheet_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9f47bed6a237890800000000000000
+      internalID: -7461573506032666125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2703
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bae43b64c3df3380800000000000000
+      internalID: -8989233490642539852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2703
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648c63ff5e6ccb1c0800000000000000
+      internalID: -4486492437636265914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2703
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a11fba9ac3aa720800000000000000
+      internalID: 2858163612951845432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2703
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ca3b36a32f28250800000000000000
+      internalID: 5945580790677220449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2703
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b61bf513ee2eb070800000000000000
+      internalID: 8123982330684184248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2703
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ed41545bad34910800000000000000
+      internalID: 1820539146470743684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 2703
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35af311f2130738f0800000000000000
+      internalID: -560976248695424429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2318
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fce9fe5d3964f40800000000000000
+      internalID: 5712415724423532289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2318
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30b180e7f48ecb10800000000000000
+      internalID: 2003685084384833596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2318
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb91354b1729e0d0800000000000000
+      internalID: -3393137846168478742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2318
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1298c289aaeaa7fe0800000000000000
+      internalID: -1190447103765346015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2318
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860e04f99f0df6730800000000000000
+      internalID: 3994641165038182504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2318
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bb364ab5e21af70800000000000000
+      internalID: 9196682885202164548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2318
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e43aa3e6abae6950800000000000000
+      internalID: 6444276850086261990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 2318
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4064ebc84e50f20800000000000000
+      internalID: 3388365587804980427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1933
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40f839458108a7f0800000000000000
+      internalID: -601228878283214773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1933
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca38d171ead74700800000000000000
+      internalID: 524628543424445132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1933
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299e415f6cb450150800000000000000
+      internalID: 5838155809843112338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1933
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a543f9976a24a9f0800000000000000
+      internalID: -458194637632092761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1933
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee5a30679fcdef20800000000000000
+      internalID: 3453644738324487907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1933
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e89c753485d79a0800000000000000
+      internalID: -6233729262952018396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1933
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09234204b960397b0800000000000000
+      internalID: -5218820279326461296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1933
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9331a42150166f0800000000000000
+      internalID: -693267291528021562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9e09fbdb464f850800000000000000
+      internalID: 6409858935780600305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1548
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a46711c01f5ad30800000000000000
+      internalID: 4442221641605728888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1548
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd86b1b9d32cf3d0800000000000000
+      internalID: -3171620619679265355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1548
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00699fbb5d824a2d0800000000000000
+      internalID: -3268442531117296128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1548
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371940296bf33abe0800000000000000
+      internalID: -1467259000226279053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1548
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1523391feb8b21490800000000000000
+      internalID: -7776950476279172527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1548
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465abd3f0a64cdcf0800000000000000
+      internalID: -226228224175397532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1548
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf3589405ac8bf80800000000000000
+      internalID: -8090494284391432245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1163
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6158ae6940191d880800000000000000
+      internalID: -8587923565520976618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1163
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b298b989f622f0800000000000000
+      internalID: -997835897513527933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1163
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e4ccecb6cc22690800000000000000
+      internalID: -7628310055409136115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1163
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b5b1f9b4e1bc3b0800000000000000
+      internalID: -5491262010507437199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1163
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dd3a1e77ee9f1e0800000000000000
+      internalID: -2163435947320681136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1163
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a5f6a253b2608e0800000000000000
+      internalID: -1727645899704804747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1163
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92accc50ede155de0800000000000000
+      internalID: -1345134974771344855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1163
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956bed9be2d464510800000000000000
+      internalID: 1532997586248447577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 778
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d62ff5ec0c3c2d0800000000000000
+      internalID: -3259549712680588014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 778
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b21d11472588430800000000000000
+      internalID: 3785366145273506612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 778
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb6c0109ca944b80800000000000000
+      internalID: -8411428015924548624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 778
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36c7ccf88ebdf910800000000000000
+      internalID: 1872862515621774907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 778
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785d2b3d1a499cc50800000000000000
+      internalID: 6686038544570570119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 778
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715d3764dc7da6ad0800000000000000
+      internalID: -2708114949259668201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 778
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea4fe208f43ebb20800000000000000
+      internalID: 3152015029011696354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 778
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7148ceb98d8d5bd0800000000000000
+      internalID: -2639798183818411649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be09882b09caf280800000000000000
+      internalID: -9008667054839361867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 393
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575b2ef4fc604ec30800000000000000
+      internalID: 4387639424433960309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 393
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b082e1cb2a47cdd0800000000000000
+      internalID: -2465920719165161295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 393
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9c5149016acda40800000000000000
+      internalID: 5394369043817155009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 393
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daadf5bb062868d10800000000000000
+      internalID: 2127531225951230637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 393
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99624f09a56de1d60800000000000000
+      internalID: 7862957683902785177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 393
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d4ec9561112670800000000000000
+      internalID: 8512103898828560891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 393
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1fdf7f883717070800000000000000
+      internalID: 8102384236729594275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ca62bbc07154560800000000000000
+      internalID: 7297264114670677051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 8
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4170b8e2936ba7360800000000000000
+      internalID: 7168242113623820052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 8
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108c4564db49e7730800000000000000
+      internalID: 3998797059801270273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 8
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7307d3fdb7f81cd448f87814e4ea71d7
+      internalID: -1402908886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f1d2302d64b0b97468adfab114748c93
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":385.0,"y":385.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Coin_SpriteSheet_0: -7461573506032666125
+      Coin_SpriteSheet_1: -8989233490642539852
+      Coin_SpriteSheet_10: -3393137846168478742
+      Coin_SpriteSheet_11: -1190447103765346015
+      Coin_SpriteSheet_12: 3994641165038182504
+      Coin_SpriteSheet_13: 9196682885202164548
+      Coin_SpriteSheet_14: 6444276850086261990
+      Coin_SpriteSheet_15: 3388365587804980427
+      Coin_SpriteSheet_16: -601228878283214773
+      Coin_SpriteSheet_17: 524628543424445132
+      Coin_SpriteSheet_18: 5838155809843112338
+      Coin_SpriteSheet_19: -458194637632092761
+      Coin_SpriteSheet_2: -4486492437636265914
+      Coin_SpriteSheet_20: 3453644738324487907
+      Coin_SpriteSheet_21: -6233729262952018396
+      Coin_SpriteSheet_22: -5218820279326461296
+      Coin_SpriteSheet_23: -693267291528021562
+      Coin_SpriteSheet_24: 6409858935780600305
+      Coin_SpriteSheet_25: 4442221641605728888
+      Coin_SpriteSheet_26: -3171620619679265355
+      Coin_SpriteSheet_27: -3268442531117296128
+      Coin_SpriteSheet_28: -1467259000226279053
+      Coin_SpriteSheet_29: -7776950476279172527
+      Coin_SpriteSheet_3: 2858163612951845432
+      Coin_SpriteSheet_30: -226228224175397532
+      Coin_SpriteSheet_31: -8090494284391432245
+      Coin_SpriteSheet_32: -8587923565520976618
+      Coin_SpriteSheet_33: -997835897513527933
+      Coin_SpriteSheet_34: -7628310055409136115
+      Coin_SpriteSheet_35: -5491262010507437199
+      Coin_SpriteSheet_36: -2163435947320681136
+      Coin_SpriteSheet_37: -1727645899704804747
+      Coin_SpriteSheet_38: -1345134974771344855
+      Coin_SpriteSheet_39: 1532997586248447577
+      Coin_SpriteSheet_4: 5945580790677220449
+      Coin_SpriteSheet_40: -3259549712680588014
+      Coin_SpriteSheet_41: 3785366145273506612
+      Coin_SpriteSheet_42: -8411428015924548624
+      Coin_SpriteSheet_43: 1872862515621774907
+      Coin_SpriteSheet_44: 6686038544570570119
+      Coin_SpriteSheet_45: -2708114949259668201
+      Coin_SpriteSheet_46: 3152015029011696354
+      Coin_SpriteSheet_47: -2639798183818411649
+      Coin_SpriteSheet_48: -9008667054839361867
+      Coin_SpriteSheet_49: 4387639424433960309
+      Coin_SpriteSheet_5: 8123982330684184248
+      Coin_SpriteSheet_50: -2465920719165161295
+      Coin_SpriteSheet_51: 5394369043817155009
+      Coin_SpriteSheet_52: 2127531225951230637
+      Coin_SpriteSheet_53: 7862957683902785177
+      Coin_SpriteSheet_54: 8512103898828560891
+      Coin_SpriteSheet_55: 8102384236729594275
+      Coin_SpriteSheet_56: 7297264114670677051
+      Coin_SpriteSheet_57: 7168242113623820052
+      Coin_SpriteSheet_58: 3998797059801270273
+      Coin_SpriteSheet_59: -1402908886
+      Coin_SpriteSheet_6: 1820539146470743684
+      Coin_SpriteSheet_7: -560976248695424429
+      Coin_SpriteSheet_8: 5712415724423532289
+      Coin_SpriteSheet_9: 2003685084384833596
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
