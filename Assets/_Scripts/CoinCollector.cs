@@ -13,6 +13,9 @@ public class CoinCollector : MonoBehaviour
     [SerializeField] private TMP_Text paraMetni;               // Para sayısını göstermek için UI
     [SerializeField] private string yaziOnEki = "Para Miktarı: ";      // UI metni için önek
 
+    [Header("Ses Efektleri")]
+    [SerializeField] private AudioClip coinToplamaSesi;         // Para toplanırken çalınacak ses
+
     public UnityEvent<int> ParaDegisti;                        // UI veya diğer sistemlere haber ver
 
     private int guncelParaDegeri;
@@ -44,6 +47,12 @@ public class CoinCollector : MonoBehaviour
 
         ParaDegisti?.Invoke(toplamPara);
         GuncelleUI();
+
+        // Ses efektini çal
+        if (coinToplamaSesi != null)
+        {
+            AudioSource.PlayClipAtPoint(coinToplamaSesi, transform.position);
+        }
 
         // Varsa animasyon tetikle, ardından nesneyi yok et
         var animator = coinObjesi.GetComponent<Animator>();
