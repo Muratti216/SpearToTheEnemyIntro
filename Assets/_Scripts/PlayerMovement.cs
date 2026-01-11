@@ -53,12 +53,12 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         // Hızı karaktere uygula (Y eksenini ellemiyoruz ki düşmeye devam etsin)
-        rb.velocity = new Vector2(yatayHareketInput * hiz, rb.velocity.y);
+        rb.linearVelocity = new Vector2(yatayHareketInput * hiz, rb.linearVelocity.y);
 
         // --- Zıplama ---
         if (jumpPressed && yerdeMi)
         {
-            rb.velocity = new Vector2(rb.velocity.x, ziplamaGucu);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, ziplamaGucu);
             jumpPressed = false;
             yerdeMi = false;
 
