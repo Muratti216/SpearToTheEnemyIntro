@@ -25,7 +25,14 @@ public class MainMenuManager : MonoBehaviour
     public float yaziFadeSuresi = 0.5f; // Yazı tıklanınca fade süresi
     public float hizliYanipSure = 0.25f; // Tıklandıktan sonra hızlı yanıp sönme süresi
     public float hizliYanipSonmeHizi = 8f; // Tıklandıktan sonra hızlı yanıp sönme hızı
+    [Header("Müzik")]
+    public AudioClip menuMusic;
+    [Range(0f, 1f)] public float menuMusicVolume = 0.5f;
+    public bool menuMusicLoop = true;
+    public float menuMusicDelay = 0f;
+
     private AudioSource audioSource;
+    private AudioSource musicSource;
 
     private bool menuAcikMi = false;
     private bool videoOynuyor = true; // Video durumunu takip eder
@@ -50,6 +57,11 @@ public class MainMenuManager : MonoBehaviour
         {
             audioSource = gameObject.AddComponent<AudioSource>();
         }
+
+        // Menü müziği için ayrı bir kaynak kullan
+        musicSource = gameObject.AddComponent<AudioSource>();
+        musicSource.playOnAwake = false;
+        musicSource.loop = menuMusicLoop;
         
         // VideoPlayer referansını otomatik bul (yoksa)
         if (videoPlayer == null && logoVideoObjesi != null)
@@ -160,6 +172,37 @@ public class MainMenuManager : MonoBehaviour
 
         // Menüyü aç
         if (menuPanel != null) menuPanel.SetActive(true); 
+
+        // Menü açıldıktan sonra müziği başlat
+        BaslatMenuMuzigi();
+    }
+
+    void BaslatMenuMuzigi()
+    {
+        if (menuMusic == null || musicSource == null)
+            return;
+
+        musicSource.clip = menuMusic;
+        musicSource.volume = menuMusicVolume;
+        musicSource.loop = menuMusicLoop;
+
+        if (menuMusicDelay > 0f)
+        {
+            StartCoroutine(MenuMuzigiGecikmeli());
+        }
+        else if (!musicSource.isPlaying)
+        {
+            musicSource.Play();
+        }
+    }
+
+    System.Collections.IEnumerator MenuMuzigiGecikmeli()
+    {
+        yield return new WaitForSeconds(menuMusicDelay);
+        if (musicSource != null && !musicSource.isPlaying)
+        {
+            musicSource.Play();
+        }
     }
 
     System.Collections.IEnumerator BlinkText(TextMeshProUGUI tmp, float sure, float hiz)
